@@ -1,0 +1,23 @@
+{
+	"deskripsi" : " Kerangka CodeIgniter " ,
+	"name" : " codeigniter/framework " ,
+	"ketik" : " proyek " ,
+	"homepage" : " https://codeigniter.com " ,
+	"lisensi" : " MIT " ,
+	"dukungan" : {
+		"forum" : " http://forum.codeigniter.com/ " ,
+		"wiki" : " https://github.com/bcit-ci/CodeIgniter/wiki " ,
+		"kendur" : " https://codeigniterchat.slack.com " ,
+		"sumber" : " https://github.com/bcit-ci/CodeIgniter "
+	},
+	"membutuhkan" : {
+		"php" : " >=5.3.7 "
+	},
+	"menyarankan" : {
+		"paragonie/random_compat" : " Memberikan keacakan yang lebih baik di PHP 5.x "
+	},
+	"memerlukan-dev" : {
+		"mikey179/vfsStream" : " 1.1.* " ,
+		"phpunit/phpunit" : " 4.* || 5.* "
+	}
+}
