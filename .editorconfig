@@ -1,0 +1,15 @@
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[ * ]
+end_of_line = lf
+insert_final_newline = benar
+
+# Mencocokkan banyak file dengan notasi ekspansi brace
+# Setel rangkaian karakter default
+[ * ]
+rangkaian karakter = utf-8
+
+# Lekukan tab (tidak ada ukuran yang ditentukan)
+indent_style = tab
